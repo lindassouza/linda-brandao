@@ -1,12 +1,12 @@
-### Olá! Eu sou a Linda Hillary
+### Oláaa! Eu sou a Linda Hillary
 
 - 🌱 Estudando: HTML5 e CSS3
 - 😄 Pronome: ela/dela
 
 <div align="center">
   <a href="https://github.com/hillpng">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hillpng&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hillpng&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=hillpng&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hillpng&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 <div style="display: inline_block"><br>
