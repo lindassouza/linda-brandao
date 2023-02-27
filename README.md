@@ -1,6 +1,6 @@
 ### Oláaa! Eu sou a Linda Brandão
 
-- 🌱 Estudando: HTML5 e CSS3
+- 🌱 Estudando: HTML5, CSS3 e Javascript
 - 😄 Pronome: ela/dela
 
 <div align="center">
