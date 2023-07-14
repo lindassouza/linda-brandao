@@ -1,4 +1,4 @@
-### Oláaa! Eu sou a Linda Brandão
+### Olá! Eu sou a Linda Brandão
 
 - 🌱 Estudando: HTML5, CSS3 e Javascript
 - 😄 Pronome: ela/dela
@@ -18,7 +18,7 @@
 ##
 
 <div> 
-  <a href="https://www.instagram.com/lindabrandao_ux/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/linda-brandao/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="mailto:linda.15brandao@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/linda-brandao" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
